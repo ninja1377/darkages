@@ -1,0 +1,10 @@
+"darkages"
+{
+	"base"		"base"
+	"title"		"Dark Ages"
+	"maps"		"^da_"
+	"menusystem"	"1"
+	"settings"
+	{
+	}
+}
