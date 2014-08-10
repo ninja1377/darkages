@@ -21,10 +21,14 @@ include( "cl_magic.lua" )
 include( "cl_stance.lua" )
 include( "cl_magicmenu.lua" )
 include( "admin/cl_init.lua" )
-include( "help/cl_init.lua" )
+--include( "help/cl_init.lua" )
 include( "panels.lua" )
 include( "menus/cl_menu.lua" )
 include( "magic/cl_magichud.lua" )
+
+include( "menus/cl_inventory.lua" )
+include( "menus/cl_menu.lua" ) 
+include( "menus/cl_quests.lua" )
 
 include('map/cl_map.lua')
 
